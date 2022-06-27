@@ -1,0 +1,19 @@
+---
+title: "Giotto Suite"
+author: "Jiaji Chen"
+format: 
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    footer: <http://giottosuite.com/index.html>
+---
+
+## Getting up
+
+-   Turn off alarm
+-   Get out of bed
+
+## asdfasdf
